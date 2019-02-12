@@ -5,7 +5,6 @@ import {
   Post,
   Param,
   Body,
-  HttpCode,
   NotFoundError
 } from "routing-controllers";
 import User from "./entity";
