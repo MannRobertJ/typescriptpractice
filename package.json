@@ -8,7 +8,7 @@
   "main": "target/index.js",
   "scripts": {
     "start": "node .",
-    "postinstall": "tsc"
+    "postinstall": "tsc -p"
   },
   "keywords": [],
   "author": "",
